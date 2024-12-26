@@ -1,5 +1,7 @@
-Id CommandLine
-  -- -----------
+    
+
+    GIT EMPTY REPOSETRY 
+
    1 try { . "c:\Users\dell\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\...
    2 ls
    3 ls -l
@@ -14,3 +16,26 @@ Id CommandLine
   12 git status
   13 git restore testing.py
   14 clear
+ 
+     LOCAL TO GITHUB 
+
+   15 git remote add origin https://github.com/Abhimanyu7390/git-hub-for-devops-workshop-obama.git clear
+  16 clear
+  17 git remote add origin https://github.com/Abhimanyu7390/git-hub-for-devops-workshop-obama.git
+  18 git remote -v
+  19 git remote -v
+  20 git remote set-url origin https://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@github.com//Abhimanyu7390/git-hub-for-devops-wor...
+  21 clear
+  22 git remote -v
+  23 git push origin master
+  24 clear
+
+  GITHUB TO LOCAL
+
+ 1 try { . "c:\Users\dell\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scri...
+   2 git clone https://github.com/Abhimanyu7390/ai-hedge-fund.git
+   3 ls
+   4 clear
+   5 git clone https://github.com/Abhimanyu7390/git-hub-for-devops-workshop-obama.git
+   6 ls
+   7 clear
